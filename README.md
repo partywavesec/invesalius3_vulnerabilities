@@ -21,6 +21,7 @@ Every ```folder/``` will have the contributors stated in ```README.md``` file.
 
 POC available:
 
++ CVE-2024-44825
 + CVE-2024-42845
 + [partwave CVE-2024-42845](https://www.partywave.site/show/research/Tic%20TAC%20-%20Beware%20of%20your%20scan)
 + [sfoffo CVE-2024-42845](https://notes.sfoffo.com/contributions/2024-contributions/cve-2024-42845)
