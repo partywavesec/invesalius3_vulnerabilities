@@ -24,4 +24,5 @@ POC available:
 + CVE-2024-44825
 + CVE-2024-42845
 + [partwave CVE-2024-42845](https://www.partywave.site/show/research/Tic%20TAC%20-%20Beware%20of%20your%20scan)
++ [partywave CVE-2024-44825](https://www.partywave.site/show/research/CVE-2024-44825)
 + [sfoffo CVE-2024-42845](https://notes.sfoffo.com/contributions/2024-contributions/cve-2024-42845)
